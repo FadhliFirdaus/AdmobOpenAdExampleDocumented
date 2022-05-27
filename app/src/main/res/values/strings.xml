@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Admob Second Test</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="main_activity" translatable="false">Main Activity</string>
+    <string name="main_activity_text" translatable="false">
+        Leave and switch back to the app to see the ad.
+    </string>
+    <string name="splash_activity_image_text" translatable="false">Splash Activity Image</string>
+    <string name="splash_activity_text" translatable="false">AdMob App Open Example</string>
+</resources>

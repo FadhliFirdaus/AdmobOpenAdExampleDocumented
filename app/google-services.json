@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739300201650",
+    "project_id": "admob-second-test",
+    "storage_bucket": "admob-second-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739300201650:android:ed325882de2626ca74e5ab",
+        "android_client_info": {
+          "package_name": "com.example.admobsecondtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739300201650-7fa0i2hhjsd997t2femd4noq87kgr9io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0KYebmBOyI4lluYx_YtE8POBrkheCr-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739300201650-7fa0i2hhjsd997t2femd4noq87kgr9io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
